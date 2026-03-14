@@ -66,11 +66,11 @@
    display: flex;
    flex-direction: column;
    align-items: center;
-   justify-content: center;
+   padding-top: 20px;
  }
 
  .question {
-   width: 35%;
+   width: 50%;
  }
 
  .question:first-child {
@@ -92,14 +92,14 @@
  .question ul {
    font-size: 16px;
    font-weight: 400;
-   padding-left: 20px;
+   padding-left: 5px;
    margin: 30px 0;
  }
 
  .question ol {
    font-size: 16px;
    font-weight: 400;
-   padding-left: 20px;
+   padding-left: 5px;
    margin: 30px 0;
  }
 
